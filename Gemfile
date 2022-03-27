@@ -7,7 +7,7 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 gem 'sass-rails'
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
-
+gem 'bcrypt', '3.1.7'
 gem "sprockets-rails"
 
 gem "sqlite3", "~> 1.4"

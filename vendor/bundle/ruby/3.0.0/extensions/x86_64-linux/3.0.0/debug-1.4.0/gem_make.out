@@ -1,0 +1,16 @@
+current directory: /home/phuhuy/workspace/sample_app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+/home/phuhuy/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/phuhuy/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220327-13542-xs2jb.rb extconf.rb
+creating Makefile
+
+current directory: /home/phuhuy/workspace/sample_app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/phuhuy/workspace/sample_app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/phuhuy/workspace/sample_app/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20220327-13542-alf96k/debug
